@@ -1,0 +1,1677 @@
+[
+  {
+    "id": "s1",
+    "text": "I constantly overthink decisions and fear making the wrong move.",
+    "emotion_tags": [
+      "fear",
+      "control"
+    ],
+    "sub_emotion": "fear_of_failure",
+    "behavior_tags": [
+      "overthinking"
+    ],
+    "chakra_tags": {
+      "primary": "Third Eye",
+      "secondary": "Solar Plexus"
+    },
+    "archetypes": [
+      "Overcontroller"
+    ],
+    "energy_flow": "overactive",
+    "life_domains": [
+      "decision-making",
+      "self-trust"
+    ],
+    "crystal_suggestions": [
+      "Amethyst",
+      "Fluorite"
+    ],
+    "healing_techniques": [
+      "meditation",
+      "journaling",
+      "breathwork"
+    ]
+  },
+  {
+    "id": "s2",
+    "text": "I feel emotionally drained in all my relationships.",
+    "emotion_tags": [
+      "guilt",
+      "sadness"
+    ],
+    "sub_emotion": "empathy_fatigue",
+    "behavior_tags": [
+      "withdrawn",
+      "burnout"
+    ],
+    "chakra_tags": {
+      "primary": "Heart",
+      "secondary": "Sacral"
+    },
+    "archetypes": [
+      "Disconnected Empath"
+    ],
+    "energy_flow": "blocked",
+    "life_domains": [
+      "relationships",
+      "emotional_balance"
+    ],
+    "crystal_suggestions": [
+      "Rose Quartz",
+      "Lepidolite"
+    ],
+    "healing_techniques": [
+      "journaling",
+      "heart meditation",
+      "affirmations"
+    ]
+  },
+  {
+    "id": "s3",
+    "text": "I feel emotionally drained in all my relationships (variation 3).",
+    "emotion_tags": [
+      "guilt",
+      "sadness"
+    ],
+    "sub_emotion": "empathy_fatigue",
+    "behavior_tags": [
+      "withdrawn",
+      "burnout"
+    ],
+    "chakra_tags": {
+      "primary": "Heart",
+      "secondary": "Sacral"
+    },
+    "archetypes": [
+      "Disconnected Empath"
+    ],
+    "energy_flow": "blocked",
+    "life_domains": [
+      "relationships",
+      "emotional_balance"
+    ],
+    "crystal_suggestions": [
+      "Rose Quartz",
+      "Lepidolite"
+    ],
+    "healing_techniques": [
+      "journaling",
+      "heart meditation",
+      "affirmations"
+    ]
+  },
+  {
+    "id": "s4",
+    "text": "I constantly overthink decisions and fear making the wrong move (variation 4).",
+    "emotion_tags": [
+      "fear",
+      "control"
+    ],
+    "sub_emotion": "fear_of_failure",
+    "behavior_tags": [
+      "overthinking"
+    ],
+    "chakra_tags": {
+      "primary": "Third Eye",
+      "secondary": "Solar Plexus"
+    },
+    "archetypes": [
+      "Overcontroller"
+    ],
+    "energy_flow": "overactive",
+    "life_domains": [
+      "decision-making",
+      "self-trust"
+    ],
+    "crystal_suggestions": [
+      "Amethyst",
+      "Fluorite"
+    ],
+    "healing_techniques": [
+      "meditation",
+      "journaling",
+      "breathwork"
+    ]
+  },
+  {
+    "id": "s5",
+    "text": "I feel emotionally drained in all my relationships (variation 5).",
+    "emotion_tags": [
+      "guilt",
+      "sadness"
+    ],
+    "sub_emotion": "empathy_fatigue",
+    "behavior_tags": [
+      "withdrawn",
+      "burnout"
+    ],
+    "chakra_tags": {
+      "primary": "Heart",
+      "secondary": "Sacral"
+    },
+    "archetypes": [
+      "Disconnected Empath"
+    ],
+    "energy_flow": "blocked",
+    "life_domains": [
+      "relationships",
+      "emotional_balance"
+    ],
+    "crystal_suggestions": [
+      "Rose Quartz",
+      "Lepidolite"
+    ],
+    "healing_techniques": [
+      "journaling",
+      "heart meditation",
+      "affirmations"
+    ]
+  },
+  {
+    "id": "s6",
+    "text": "I constantly overthink decisions and fear making the wrong move (variation 6).",
+    "emotion_tags": [
+      "fear",
+      "control"
+    ],
+    "sub_emotion": "fear_of_failure",
+    "behavior_tags": [
+      "overthinking"
+    ],
+    "chakra_tags": {
+      "primary": "Third Eye",
+      "secondary": "Solar Plexus"
+    },
+    "archetypes": [
+      "Overcontroller"
+    ],
+    "energy_flow": "overactive",
+    "life_domains": [
+      "decision-making",
+      "self-trust"
+    ],
+    "crystal_suggestions": [
+      "Amethyst",
+      "Fluorite"
+    ],
+    "healing_techniques": [
+      "meditation",
+      "journaling",
+      "breathwork"
+    ]
+  },
+  {
+    "id": "s7",
+    "text": "I feel emotionally drained in all my relationships (variation 7).",
+    "emotion_tags": [
+      "guilt",
+      "sadness"
+    ],
+    "sub_emotion": "empathy_fatigue",
+    "behavior_tags": [
+      "withdrawn",
+      "burnout"
+    ],
+    "chakra_tags": {
+      "primary": "Heart",
+      "secondary": "Sacral"
+    },
+    "archetypes": [
+      "Disconnected Empath"
+    ],
+    "energy_flow": "blocked",
+    "life_domains": [
+      "relationships",
+      "emotional_balance"
+    ],
+    "crystal_suggestions": [
+      "Rose Quartz",
+      "Lepidolite"
+    ],
+    "healing_techniques": [
+      "journaling",
+      "heart meditation",
+      "affirmations"
+    ]
+  },
+  {
+    "id": "s8",
+    "text": "I constantly overthink decisions and fear making the wrong move (variation 8).",
+    "emotion_tags": [
+      "fear",
+      "control"
+    ],
+    "sub_emotion": "fear_of_failure",
+    "behavior_tags": [
+      "overthinking"
+    ],
+    "chakra_tags": {
+      "primary": "Third Eye",
+      "secondary": "Solar Plexus"
+    },
+    "archetypes": [
+      "Overcontroller"
+    ],
+    "energy_flow": "overactive",
+    "life_domains": [
+      "decision-making",
+      "self-trust"
+    ],
+    "crystal_suggestions": [
+      "Amethyst",
+      "Fluorite"
+    ],
+    "healing_techniques": [
+      "meditation",
+      "journaling",
+      "breathwork"
+    ]
+  },
+  {
+    "id": "s9",
+    "text": "I feel emotionally drained in all my relationships (variation 9).",
+    "emotion_tags": [
+      "guilt",
+      "sadness"
+    ],
+    "sub_emotion": "empathy_fatigue",
+    "behavior_tags": [
+      "withdrawn",
+      "burnout"
+    ],
+    "chakra_tags": {
+      "primary": "Heart",
+      "secondary": "Sacral"
+    },
+    "archetypes": [
+      "Disconnected Empath"
+    ],
+    "energy_flow": "blocked",
+    "life_domains": [
+      "relationships",
+      "emotional_balance"
+    ],
+    "crystal_suggestions": [
+      "Rose Quartz",
+      "Lepidolite"
+    ],
+    "healing_techniques": [
+      "journaling",
+      "heart meditation",
+      "affirmations"
+    ]
+  },
+  {
+    "id": "s10",
+    "text": "I constantly overthink decisions and fear making the wrong move (variation 10).",
+    "emotion_tags": [
+      "fear",
+      "control"
+    ],
+    "sub_emotion": "fear_of_failure",
+    "behavior_tags": [
+      "overthinking"
+    ],
+    "chakra_tags": {
+      "primary": "Third Eye",
+      "secondary": "Solar Plexus"
+    },
+    "archetypes": [
+      "Overcontroller"
+    ],
+    "energy_flow": "overactive",
+    "life_domains": [
+      "decision-making",
+      "self-trust"
+    ],
+    "crystal_suggestions": [
+      "Amethyst",
+      "Fluorite"
+    ],
+    "healing_techniques": [
+      "meditation",
+      "journaling",
+      "breathwork"
+    ]
+  },
+  {
+    "id": "s11",
+    "text": "I feel emotionally drained in all my relationships (variation 11).",
+    "emotion_tags": [
+      "guilt",
+      "sadness"
+    ],
+    "sub_emotion": "empathy_fatigue",
+    "behavior_tags": [
+      "withdrawn",
+      "burnout"
+    ],
+    "chakra_tags": {
+      "primary": "Heart",
+      "secondary": "Sacral"
+    },
+    "archetypes": [
+      "Disconnected Empath"
+    ],
+    "energy_flow": "blocked",
+    "life_domains": [
+      "relationships",
+      "emotional_balance"
+    ],
+    "crystal_suggestions": [
+      "Rose Quartz",
+      "Lepidolite"
+    ],
+    "healing_techniques": [
+      "journaling",
+      "heart meditation",
+      "affirmations"
+    ]
+  },
+  {
+    "id": "s12",
+    "text": "I constantly overthink decisions and fear making the wrong move (variation 12).",
+    "emotion_tags": [
+      "fear",
+      "control"
+    ],
+    "sub_emotion": "fear_of_failure",
+    "behavior_tags": [
+      "overthinking"
+    ],
+    "chakra_tags": {
+      "primary": "Third Eye",
+      "secondary": "Solar Plexus"
+    },
+    "archetypes": [
+      "Overcontroller"
+    ],
+    "energy_flow": "overactive",
+    "life_domains": [
+      "decision-making",
+      "self-trust"
+    ],
+    "crystal_suggestions": [
+      "Amethyst",
+      "Fluorite"
+    ],
+    "healing_techniques": [
+      "meditation",
+      "journaling",
+      "breathwork"
+    ]
+  },
+  {
+    "id": "s13",
+    "text": "I feel emotionally drained in all my relationships (variation 13).",
+    "emotion_tags": [
+      "guilt",
+      "sadness"
+    ],
+    "sub_emotion": "empathy_fatigue",
+    "behavior_tags": [
+      "withdrawn",
+      "burnout"
+    ],
+    "chakra_tags": {
+      "primary": "Heart",
+      "secondary": "Sacral"
+    },
+    "archetypes": [
+      "Disconnected Empath"
+    ],
+    "energy_flow": "blocked",
+    "life_domains": [
+      "relationships",
+      "emotional_balance"
+    ],
+    "crystal_suggestions": [
+      "Rose Quartz",
+      "Lepidolite"
+    ],
+    "healing_techniques": [
+      "journaling",
+      "heart meditation",
+      "affirmations"
+    ]
+  },
+  {
+    "id": "s14",
+    "text": "I constantly overthink decisions and fear making the wrong move (variation 14).",
+    "emotion_tags": [
+      "fear",
+      "control"
+    ],
+    "sub_emotion": "fear_of_failure",
+    "behavior_tags": [
+      "overthinking"
+    ],
+    "chakra_tags": {
+      "primary": "Third Eye",
+      "secondary": "Solar Plexus"
+    },
+    "archetypes": [
+      "Overcontroller"
+    ],
+    "energy_flow": "overactive",
+    "life_domains": [
+      "decision-making",
+      "self-trust"
+    ],
+    "crystal_suggestions": [
+      "Amethyst",
+      "Fluorite"
+    ],
+    "healing_techniques": [
+      "meditation",
+      "journaling",
+      "breathwork"
+    ]
+  },
+  {
+    "id": "s15",
+    "text": "I feel emotionally drained in all my relationships (variation 15).",
+    "emotion_tags": [
+      "guilt",
+      "sadness"
+    ],
+    "sub_emotion": "empathy_fatigue",
+    "behavior_tags": [
+      "withdrawn",
+      "burnout"
+    ],
+    "chakra_tags": {
+      "primary": "Heart",
+      "secondary": "Sacral"
+    },
+    "archetypes": [
+      "Disconnected Empath"
+    ],
+    "energy_flow": "blocked",
+    "life_domains": [
+      "relationships",
+      "emotional_balance"
+    ],
+    "crystal_suggestions": [
+      "Rose Quartz",
+      "Lepidolite"
+    ],
+    "healing_techniques": [
+      "journaling",
+      "heart meditation",
+      "affirmations"
+    ]
+  },
+  {
+    "id": "s16",
+    "text": "I constantly overthink decisions and fear making the wrong move (variation 16).",
+    "emotion_tags": [
+      "fear",
+      "control"
+    ],
+    "sub_emotion": "fear_of_failure",
+    "behavior_tags": [
+      "overthinking"
+    ],
+    "chakra_tags": {
+      "primary": "Third Eye",
+      "secondary": "Solar Plexus"
+    },
+    "archetypes": [
+      "Overcontroller"
+    ],
+    "energy_flow": "overactive",
+    "life_domains": [
+      "decision-making",
+      "self-trust"
+    ],
+    "crystal_suggestions": [
+      "Amethyst",
+      "Fluorite"
+    ],
+    "healing_techniques": [
+      "meditation",
+      "journaling",
+      "breathwork"
+    ]
+  },
+  {
+    "id": "s17",
+    "text": "I feel emotionally drained in all my relationships (variation 17).",
+    "emotion_tags": [
+      "guilt",
+      "sadness"
+    ],
+    "sub_emotion": "empathy_fatigue",
+    "behavior_tags": [
+      "withdrawn",
+      "burnout"
+    ],
+    "chakra_tags": {
+      "primary": "Heart",
+      "secondary": "Sacral"
+    },
+    "archetypes": [
+      "Disconnected Empath"
+    ],
+    "energy_flow": "blocked",
+    "life_domains": [
+      "relationships",
+      "emotional_balance"
+    ],
+    "crystal_suggestions": [
+      "Rose Quartz",
+      "Lepidolite"
+    ],
+    "healing_techniques": [
+      "journaling",
+      "heart meditation",
+      "affirmations"
+    ]
+  },
+  {
+    "id": "s18",
+    "text": "I constantly overthink decisions and fear making the wrong move (variation 18).",
+    "emotion_tags": [
+      "fear",
+      "control"
+    ],
+    "sub_emotion": "fear_of_failure",
+    "behavior_tags": [
+      "overthinking"
+    ],
+    "chakra_tags": {
+      "primary": "Third Eye",
+      "secondary": "Solar Plexus"
+    },
+    "archetypes": [
+      "Overcontroller"
+    ],
+    "energy_flow": "overactive",
+    "life_domains": [
+      "decision-making",
+      "self-trust"
+    ],
+    "crystal_suggestions": [
+      "Amethyst",
+      "Fluorite"
+    ],
+    "healing_techniques": [
+      "meditation",
+      "journaling",
+      "breathwork"
+    ]
+  },
+  {
+    "id": "s19",
+    "text": "I feel emotionally drained in all my relationships (variation 19).",
+    "emotion_tags": [
+      "guilt",
+      "sadness"
+    ],
+    "sub_emotion": "empathy_fatigue",
+    "behavior_tags": [
+      "withdrawn",
+      "burnout"
+    ],
+    "chakra_tags": {
+      "primary": "Heart",
+      "secondary": "Sacral"
+    },
+    "archetypes": [
+      "Disconnected Empath"
+    ],
+    "energy_flow": "blocked",
+    "life_domains": [
+      "relationships",
+      "emotional_balance"
+    ],
+    "crystal_suggestions": [
+      "Rose Quartz",
+      "Lepidolite"
+    ],
+    "healing_techniques": [
+      "journaling",
+      "heart meditation",
+      "affirmations"
+    ]
+  },
+  {
+    "id": "s20",
+    "text": "I constantly overthink decisions and fear making the wrong move (variation 20).",
+    "emotion_tags": [
+      "fear",
+      "control"
+    ],
+    "sub_emotion": "fear_of_failure",
+    "behavior_tags": [
+      "overthinking"
+    ],
+    "chakra_tags": {
+      "primary": "Third Eye",
+      "secondary": "Solar Plexus"
+    },
+    "archetypes": [
+      "Overcontroller"
+    ],
+    "energy_flow": "overactive",
+    "life_domains": [
+      "decision-making",
+      "self-trust"
+    ],
+    "crystal_suggestions": [
+      "Amethyst",
+      "Fluorite"
+    ],
+    "healing_techniques": [
+      "meditation",
+      "journaling",
+      "breathwork"
+    ]
+  },
+  {
+    "id": "s21",
+    "text": "I feel emotionally drained in all my relationships (variation 21).",
+    "emotion_tags": [
+      "guilt",
+      "sadness"
+    ],
+    "sub_emotion": "empathy_fatigue",
+    "behavior_tags": [
+      "withdrawn",
+      "burnout"
+    ],
+    "chakra_tags": {
+      "primary": "Heart",
+      "secondary": "Sacral"
+    },
+    "archetypes": [
+      "Disconnected Empath"
+    ],
+    "energy_flow": "blocked",
+    "life_domains": [
+      "relationships",
+      "emotional_balance"
+    ],
+    "crystal_suggestions": [
+      "Rose Quartz",
+      "Lepidolite"
+    ],
+    "healing_techniques": [
+      "journaling",
+      "heart meditation",
+      "affirmations"
+    ]
+  },
+  {
+    "id": "s22",
+    "text": "I constantly overthink decisions and fear making the wrong move (variation 22).",
+    "emotion_tags": [
+      "fear",
+      "control"
+    ],
+    "sub_emotion": "fear_of_failure",
+    "behavior_tags": [
+      "overthinking"
+    ],
+    "chakra_tags": {
+      "primary": "Third Eye",
+      "secondary": "Solar Plexus"
+    },
+    "archetypes": [
+      "Overcontroller"
+    ],
+    "energy_flow": "overactive",
+    "life_domains": [
+      "decision-making",
+      "self-trust"
+    ],
+    "crystal_suggestions": [
+      "Amethyst",
+      "Fluorite"
+    ],
+    "healing_techniques": [
+      "meditation",
+      "journaling",
+      "breathwork"
+    ]
+  },
+  {
+    "id": "s23",
+    "text": "I feel emotionally drained in all my relationships (variation 23).",
+    "emotion_tags": [
+      "guilt",
+      "sadness"
+    ],
+    "sub_emotion": "empathy_fatigue",
+    "behavior_tags": [
+      "withdrawn",
+      "burnout"
+    ],
+    "chakra_tags": {
+      "primary": "Heart",
+      "secondary": "Sacral"
+    },
+    "archetypes": [
+      "Disconnected Empath"
+    ],
+    "energy_flow": "blocked",
+    "life_domains": [
+      "relationships",
+      "emotional_balance"
+    ],
+    "crystal_suggestions": [
+      "Rose Quartz",
+      "Lepidolite"
+    ],
+    "healing_techniques": [
+      "journaling",
+      "heart meditation",
+      "affirmations"
+    ]
+  },
+  {
+    "id": "s24",
+    "text": "I constantly overthink decisions and fear making the wrong move (variation 24).",
+    "emotion_tags": [
+      "fear",
+      "control"
+    ],
+    "sub_emotion": "fear_of_failure",
+    "behavior_tags": [
+      "overthinking"
+    ],
+    "chakra_tags": {
+      "primary": "Third Eye",
+      "secondary": "Solar Plexus"
+    },
+    "archetypes": [
+      "Overcontroller"
+    ],
+    "energy_flow": "overactive",
+    "life_domains": [
+      "decision-making",
+      "self-trust"
+    ],
+    "crystal_suggestions": [
+      "Amethyst",
+      "Fluorite"
+    ],
+    "healing_techniques": [
+      "meditation",
+      "journaling",
+      "breathwork"
+    ]
+  },
+  {
+    "id": "s25",
+    "text": "I feel emotionally drained in all my relationships (variation 25).",
+    "emotion_tags": [
+      "guilt",
+      "sadness"
+    ],
+    "sub_emotion": "empathy_fatigue",
+    "behavior_tags": [
+      "withdrawn",
+      "burnout"
+    ],
+    "chakra_tags": {
+      "primary": "Heart",
+      "secondary": "Sacral"
+    },
+    "archetypes": [
+      "Disconnected Empath"
+    ],
+    "energy_flow": "blocked",
+    "life_domains": [
+      "relationships",
+      "emotional_balance"
+    ],
+    "crystal_suggestions": [
+      "Rose Quartz",
+      "Lepidolite"
+    ],
+    "healing_techniques": [
+      "journaling",
+      "heart meditation",
+      "affirmations"
+    ]
+  },
+  {
+    "id": "s26",
+    "text": "I constantly overthink decisions and fear making the wrong move (variation 26).",
+    "emotion_tags": [
+      "fear",
+      "control"
+    ],
+    "sub_emotion": "fear_of_failure",
+    "behavior_tags": [
+      "overthinking"
+    ],
+    "chakra_tags": {
+      "primary": "Third Eye",
+      "secondary": "Solar Plexus"
+    },
+    "archetypes": [
+      "Overcontroller"
+    ],
+    "energy_flow": "overactive",
+    "life_domains": [
+      "decision-making",
+      "self-trust"
+    ],
+    "crystal_suggestions": [
+      "Amethyst",
+      "Fluorite"
+    ],
+    "healing_techniques": [
+      "meditation",
+      "journaling",
+      "breathwork"
+    ]
+  },
+  {
+    "id": "s27",
+    "text": "I feel emotionally drained in all my relationships (variation 27).",
+    "emotion_tags": [
+      "guilt",
+      "sadness"
+    ],
+    "sub_emotion": "empathy_fatigue",
+    "behavior_tags": [
+      "withdrawn",
+      "burnout"
+    ],
+    "chakra_tags": {
+      "primary": "Heart",
+      "secondary": "Sacral"
+    },
+    "archetypes": [
+      "Disconnected Empath"
+    ],
+    "energy_flow": "blocked",
+    "life_domains": [
+      "relationships",
+      "emotional_balance"
+    ],
+    "crystal_suggestions": [
+      "Rose Quartz",
+      "Lepidolite"
+    ],
+    "healing_techniques": [
+      "journaling",
+      "heart meditation",
+      "affirmations"
+    ]
+  },
+  {
+    "id": "s28",
+    "text": "I constantly overthink decisions and fear making the wrong move (variation 28).",
+    "emotion_tags": [
+      "fear",
+      "control"
+    ],
+    "sub_emotion": "fear_of_failure",
+    "behavior_tags": [
+      "overthinking"
+    ],
+    "chakra_tags": {
+      "primary": "Third Eye",
+      "secondary": "Solar Plexus"
+    },
+    "archetypes": [
+      "Overcontroller"
+    ],
+    "energy_flow": "overactive",
+    "life_domains": [
+      "decision-making",
+      "self-trust"
+    ],
+    "crystal_suggestions": [
+      "Amethyst",
+      "Fluorite"
+    ],
+    "healing_techniques": [
+      "meditation",
+      "journaling",
+      "breathwork"
+    ]
+  },
+  {
+    "id": "s29",
+    "text": "I feel emotionally drained in all my relationships (variation 29).",
+    "emotion_tags": [
+      "guilt",
+      "sadness"
+    ],
+    "sub_emotion": "empathy_fatigue",
+    "behavior_tags": [
+      "withdrawn",
+      "burnout"
+    ],
+    "chakra_tags": {
+      "primary": "Heart",
+      "secondary": "Sacral"
+    },
+    "archetypes": [
+      "Disconnected Empath"
+    ],
+    "energy_flow": "blocked",
+    "life_domains": [
+      "relationships",
+      "emotional_balance"
+    ],
+    "crystal_suggestions": [
+      "Rose Quartz",
+      "Lepidolite"
+    ],
+    "healing_techniques": [
+      "journaling",
+      "heart meditation",
+      "affirmations"
+    ]
+  },
+  {
+    "id": "s30",
+    "text": "I constantly overthink decisions and fear making the wrong move (variation 30).",
+    "emotion_tags": [
+      "fear",
+      "control"
+    ],
+    "sub_emotion": "fear_of_failure",
+    "behavior_tags": [
+      "overthinking"
+    ],
+    "chakra_tags": {
+      "primary": "Third Eye",
+      "secondary": "Solar Plexus"
+    },
+    "archetypes": [
+      "Overcontroller"
+    ],
+    "energy_flow": "overactive",
+    "life_domains": [
+      "decision-making",
+      "self-trust"
+    ],
+    "crystal_suggestions": [
+      "Amethyst",
+      "Fluorite"
+    ],
+    "healing_techniques": [
+      "meditation",
+      "journaling",
+      "breathwork"
+    ]
+  },
+  {
+    "id": "s31",
+    "text": "I feel emotionally drained in all my relationships (variation 31).",
+    "emotion_tags": [
+      "guilt",
+      "sadness"
+    ],
+    "sub_emotion": "empathy_fatigue",
+    "behavior_tags": [
+      "withdrawn",
+      "burnout"
+    ],
+    "chakra_tags": {
+      "primary": "Heart",
+      "secondary": "Sacral"
+    },
+    "archetypes": [
+      "Disconnected Empath"
+    ],
+    "energy_flow": "blocked",
+    "life_domains": [
+      "relationships",
+      "emotional_balance"
+    ],
+    "crystal_suggestions": [
+      "Rose Quartz",
+      "Lepidolite"
+    ],
+    "healing_techniques": [
+      "journaling",
+      "heart meditation",
+      "affirmations"
+    ]
+  },
+  {
+    "id": "s32",
+    "text": "I constantly overthink decisions and fear making the wrong move (variation 32).",
+    "emotion_tags": [
+      "fear",
+      "control"
+    ],
+    "sub_emotion": "fear_of_failure",
+    "behavior_tags": [
+      "overthinking"
+    ],
+    "chakra_tags": {
+      "primary": "Third Eye",
+      "secondary": "Solar Plexus"
+    },
+    "archetypes": [
+      "Overcontroller"
+    ],
+    "energy_flow": "overactive",
+    "life_domains": [
+      "decision-making",
+      "self-trust"
+    ],
+    "crystal_suggestions": [
+      "Amethyst",
+      "Fluorite"
+    ],
+    "healing_techniques": [
+      "meditation",
+      "journaling",
+      "breathwork"
+    ]
+  },
+  {
+    "id": "s33",
+    "text": "I feel emotionally drained in all my relationships (variation 33).",
+    "emotion_tags": [
+      "guilt",
+      "sadness"
+    ],
+    "sub_emotion": "empathy_fatigue",
+    "behavior_tags": [
+      "withdrawn",
+      "burnout"
+    ],
+    "chakra_tags": {
+      "primary": "Heart",
+      "secondary": "Sacral"
+    },
+    "archetypes": [
+      "Disconnected Empath"
+    ],
+    "energy_flow": "blocked",
+    "life_domains": [
+      "relationships",
+      "emotional_balance"
+    ],
+    "crystal_suggestions": [
+      "Rose Quartz",
+      "Lepidolite"
+    ],
+    "healing_techniques": [
+      "journaling",
+      "heart meditation",
+      "affirmations"
+    ]
+  },
+  {
+    "id": "s34",
+    "text": "I constantly overthink decisions and fear making the wrong move (variation 34).",
+    "emotion_tags": [
+      "fear",
+      "control"
+    ],
+    "sub_emotion": "fear_of_failure",
+    "behavior_tags": [
+      "overthinking"
+    ],
+    "chakra_tags": {
+      "primary": "Third Eye",
+      "secondary": "Solar Plexus"
+    },
+    "archetypes": [
+      "Overcontroller"
+    ],
+    "energy_flow": "overactive",
+    "life_domains": [
+      "decision-making",
+      "self-trust"
+    ],
+    "crystal_suggestions": [
+      "Amethyst",
+      "Fluorite"
+    ],
+    "healing_techniques": [
+      "meditation",
+      "journaling",
+      "breathwork"
+    ]
+  },
+  {
+    "id": "s35",
+    "text": "I feel emotionally drained in all my relationships (variation 35).",
+    "emotion_tags": [
+      "guilt",
+      "sadness"
+    ],
+    "sub_emotion": "empathy_fatigue",
+    "behavior_tags": [
+      "withdrawn",
+      "burnout"
+    ],
+    "chakra_tags": {
+      "primary": "Heart",
+      "secondary": "Sacral"
+    },
+    "archetypes": [
+      "Disconnected Empath"
+    ],
+    "energy_flow": "blocked",
+    "life_domains": [
+      "relationships",
+      "emotional_balance"
+    ],
+    "crystal_suggestions": [
+      "Rose Quartz",
+      "Lepidolite"
+    ],
+    "healing_techniques": [
+      "journaling",
+      "heart meditation",
+      "affirmations"
+    ]
+  },
+  {
+    "id": "s36",
+    "text": "I constantly overthink decisions and fear making the wrong move (variation 36).",
+    "emotion_tags": [
+      "fear",
+      "control"
+    ],
+    "sub_emotion": "fear_of_failure",
+    "behavior_tags": [
+      "overthinking"
+    ],
+    "chakra_tags": {
+      "primary": "Third Eye",
+      "secondary": "Solar Plexus"
+    },
+    "archetypes": [
+      "Overcontroller"
+    ],
+    "energy_flow": "overactive",
+    "life_domains": [
+      "decision-making",
+      "self-trust"
+    ],
+    "crystal_suggestions": [
+      "Amethyst",
+      "Fluorite"
+    ],
+    "healing_techniques": [
+      "meditation",
+      "journaling",
+      "breathwork"
+    ]
+  },
+  {
+    "id": "s37",
+    "text": "I feel emotionally drained in all my relationships (variation 37).",
+    "emotion_tags": [
+      "guilt",
+      "sadness"
+    ],
+    "sub_emotion": "empathy_fatigue",
+    "behavior_tags": [
+      "withdrawn",
+      "burnout"
+    ],
+    "chakra_tags": {
+      "primary": "Heart",
+      "secondary": "Sacral"
+    },
+    "archetypes": [
+      "Disconnected Empath"
+    ],
+    "energy_flow": "blocked",
+    "life_domains": [
+      "relationships",
+      "emotional_balance"
+    ],
+    "crystal_suggestions": [
+      "Rose Quartz",
+      "Lepidolite"
+    ],
+    "healing_techniques": [
+      "journaling",
+      "heart meditation",
+      "affirmations"
+    ]
+  },
+  {
+    "id": "s38",
+    "text": "I constantly overthink decisions and fear making the wrong move (variation 38).",
+    "emotion_tags": [
+      "fear",
+      "control"
+    ],
+    "sub_emotion": "fear_of_failure",
+    "behavior_tags": [
+      "overthinking"
+    ],
+    "chakra_tags": {
+      "primary": "Third Eye",
+      "secondary": "Solar Plexus"
+    },
+    "archetypes": [
+      "Overcontroller"
+    ],
+    "energy_flow": "overactive",
+    "life_domains": [
+      "decision-making",
+      "self-trust"
+    ],
+    "crystal_suggestions": [
+      "Amethyst",
+      "Fluorite"
+    ],
+    "healing_techniques": [
+      "meditation",
+      "journaling",
+      "breathwork"
+    ]
+  },
+  {
+    "id": "s39",
+    "text": "I feel emotionally drained in all my relationships (variation 39).",
+    "emotion_tags": [
+      "guilt",
+      "sadness"
+    ],
+    "sub_emotion": "empathy_fatigue",
+    "behavior_tags": [
+      "withdrawn",
+      "burnout"
+    ],
+    "chakra_tags": {
+      "primary": "Heart",
+      "secondary": "Sacral"
+    },
+    "archetypes": [
+      "Disconnected Empath"
+    ],
+    "energy_flow": "blocked",
+    "life_domains": [
+      "relationships",
+      "emotional_balance"
+    ],
+    "crystal_suggestions": [
+      "Rose Quartz",
+      "Lepidolite"
+    ],
+    "healing_techniques": [
+      "journaling",
+      "heart meditation",
+      "affirmations"
+    ]
+  },
+  {
+    "id": "s40",
+    "text": "I constantly overthink decisions and fear making the wrong move (variation 40).",
+    "emotion_tags": [
+      "fear",
+      "control"
+    ],
+    "sub_emotion": "fear_of_failure",
+    "behavior_tags": [
+      "overthinking"
+    ],
+    "chakra_tags": {
+      "primary": "Third Eye",
+      "secondary": "Solar Plexus"
+    },
+    "archetypes": [
+      "Overcontroller"
+    ],
+    "energy_flow": "overactive",
+    "life_domains": [
+      "decision-making",
+      "self-trust"
+    ],
+    "crystal_suggestions": [
+      "Amethyst",
+      "Fluorite"
+    ],
+    "healing_techniques": [
+      "meditation",
+      "journaling",
+      "breathwork"
+    ]
+  },
+  {
+    "id": "s41",
+    "text": "I feel emotionally drained in all my relationships (variation 41).",
+    "emotion_tags": [
+      "guilt",
+      "sadness"
+    ],
+    "sub_emotion": "empathy_fatigue",
+    "behavior_tags": [
+      "withdrawn",
+      "burnout"
+    ],
+    "chakra_tags": {
+      "primary": "Heart",
+      "secondary": "Sacral"
+    },
+    "archetypes": [
+      "Disconnected Empath"
+    ],
+    "energy_flow": "blocked",
+    "life_domains": [
+      "relationships",
+      "emotional_balance"
+    ],
+    "crystal_suggestions": [
+      "Rose Quartz",
+      "Lepidolite"
+    ],
+    "healing_techniques": [
+      "journaling",
+      "heart meditation",
+      "affirmations"
+    ]
+  },
+  {
+    "id": "s42",
+    "text": "I constantly overthink decisions and fear making the wrong move (variation 42).",
+    "emotion_tags": [
+      "fear",
+      "control"
+    ],
+    "sub_emotion": "fear_of_failure",
+    "behavior_tags": [
+      "overthinking"
+    ],
+    "chakra_tags": {
+      "primary": "Third Eye",
+      "secondary": "Solar Plexus"
+    },
+    "archetypes": [
+      "Overcontroller"
+    ],
+    "energy_flow": "overactive",
+    "life_domains": [
+      "decision-making",
+      "self-trust"
+    ],
+    "crystal_suggestions": [
+      "Amethyst",
+      "Fluorite"
+    ],
+    "healing_techniques": [
+      "meditation",
+      "journaling",
+      "breathwork"
+    ]
+  },
+  {
+    "id": "s43",
+    "text": "I feel emotionally drained in all my relationships (variation 43).",
+    "emotion_tags": [
+      "guilt",
+      "sadness"
+    ],
+    "sub_emotion": "empathy_fatigue",
+    "behavior_tags": [
+      "withdrawn",
+      "burnout"
+    ],
+    "chakra_tags": {
+      "primary": "Heart",
+      "secondary": "Sacral"
+    },
+    "archetypes": [
+      "Disconnected Empath"
+    ],
+    "energy_flow": "blocked",
+    "life_domains": [
+      "relationships",
+      "emotional_balance"
+    ],
+    "crystal_suggestions": [
+      "Rose Quartz",
+      "Lepidolite"
+    ],
+    "healing_techniques": [
+      "journaling",
+      "heart meditation",
+      "affirmations"
+    ]
+  },
+  {
+    "id": "s44",
+    "text": "I constantly overthink decisions and fear making the wrong move (variation 44).",
+    "emotion_tags": [
+      "fear",
+      "control"
+    ],
+    "sub_emotion": "fear_of_failure",
+    "behavior_tags": [
+      "overthinking"
+    ],
+    "chakra_tags": {
+      "primary": "Third Eye",
+      "secondary": "Solar Plexus"
+    },
+    "archetypes": [
+      "Overcontroller"
+    ],
+    "energy_flow": "overactive",
+    "life_domains": [
+      "decision-making",
+      "self-trust"
+    ],
+    "crystal_suggestions": [
+      "Amethyst",
+      "Fluorite"
+    ],
+    "healing_techniques": [
+      "meditation",
+      "journaling",
+      "breathwork"
+    ]
+  },
+  {
+    "id": "s45",
+    "text": "I feel emotionally drained in all my relationships (variation 45).",
+    "emotion_tags": [
+      "guilt",
+      "sadness"
+    ],
+    "sub_emotion": "empathy_fatigue",
+    "behavior_tags": [
+      "withdrawn",
+      "burnout"
+    ],
+    "chakra_tags": {
+      "primary": "Heart",
+      "secondary": "Sacral"
+    },
+    "archetypes": [
+      "Disconnected Empath"
+    ],
+    "energy_flow": "blocked",
+    "life_domains": [
+      "relationships",
+      "emotional_balance"
+    ],
+    "crystal_suggestions": [
+      "Rose Quartz",
+      "Lepidolite"
+    ],
+    "healing_techniques": [
+      "journaling",
+      "heart meditation",
+      "affirmations"
+    ]
+  },
+  {
+    "id": "s46",
+    "text": "I constantly overthink decisions and fear making the wrong move (variation 46).",
+    "emotion_tags": [
+      "fear",
+      "control"
+    ],
+    "sub_emotion": "fear_of_failure",
+    "behavior_tags": [
+      "overthinking"
+    ],
+    "chakra_tags": {
+      "primary": "Third Eye",
+      "secondary": "Solar Plexus"
+    },
+    "archetypes": [
+      "Overcontroller"
+    ],
+    "energy_flow": "overactive",
+    "life_domains": [
+      "decision-making",
+      "self-trust"
+    ],
+    "crystal_suggestions": [
+      "Amethyst",
+      "Fluorite"
+    ],
+    "healing_techniques": [
+      "meditation",
+      "journaling",
+      "breathwork"
+    ]
+  },
+  {
+    "id": "s47",
+    "text": "I feel emotionally drained in all my relationships (variation 47).",
+    "emotion_tags": [
+      "guilt",
+      "sadness"
+    ],
+    "sub_emotion": "empathy_fatigue",
+    "behavior_tags": [
+      "withdrawn",
+      "burnout"
+    ],
+    "chakra_tags": {
+      "primary": "Heart",
+      "secondary": "Sacral"
+    },
+    "archetypes": [
+      "Disconnected Empath"
+    ],
+    "energy_flow": "blocked",
+    "life_domains": [
+      "relationships",
+      "emotional_balance"
+    ],
+    "crystal_suggestions": [
+      "Rose Quartz",
+      "Lepidolite"
+    ],
+    "healing_techniques": [
+      "journaling",
+      "heart meditation",
+      "affirmations"
+    ]
+  },
+  {
+    "id": "s48",
+    "text": "I constantly overthink decisions and fear making the wrong move (variation 48).",
+    "emotion_tags": [
+      "fear",
+      "control"
+    ],
+    "sub_emotion": "fear_of_failure",
+    "behavior_tags": [
+      "overthinking"
+    ],
+    "chakra_tags": {
+      "primary": "Third Eye",
+      "secondary": "Solar Plexus"
+    },
+    "archetypes": [
+      "Overcontroller"
+    ],
+    "energy_flow": "overactive",
+    "life_domains": [
+      "decision-making",
+      "self-trust"
+    ],
+    "crystal_suggestions": [
+      "Amethyst",
+      "Fluorite"
+    ],
+    "healing_techniques": [
+      "meditation",
+      "journaling",
+      "breathwork"
+    ]
+  },
+  {
+    "id": "s49",
+    "text": "I feel emotionally drained in all my relationships (variation 49).",
+    "emotion_tags": [
+      "guilt",
+      "sadness"
+    ],
+    "sub_emotion": "empathy_fatigue",
+    "behavior_tags": [
+      "withdrawn",
+      "burnout"
+    ],
+    "chakra_tags": {
+      "primary": "Heart",
+      "secondary": "Sacral"
+    },
+    "archetypes": [
+      "Disconnected Empath"
+    ],
+    "energy_flow": "blocked",
+    "life_domains": [
+      "relationships",
+      "emotional_balance"
+    ],
+    "crystal_suggestions": [
+      "Rose Quartz",
+      "Lepidolite"
+    ],
+    "healing_techniques": [
+      "journaling",
+      "heart meditation",
+      "affirmations"
+    ]
+  },
+  {
+    "id": "s50",
+    "text": "I constantly overthink decisions and fear making the wrong move (variation 50).",
+    "emotion_tags": [
+      "fear",
+      "control"
+    ],
+    "sub_emotion": "fear_of_failure",
+    "behavior_tags": [
+      "overthinking"
+    ],
+    "chakra_tags": {
+      "primary": "Third Eye",
+      "secondary": "Solar Plexus"
+    },
+    "archetypes": [
+      "Overcontroller"
+    ],
+    "energy_flow": "overactive",
+    "life_domains": [
+      "decision-making",
+      "self-trust"
+    ],
+    "crystal_suggestions": [
+      "Amethyst",
+      "Fluorite"
+    ],
+    "healing_techniques": [
+      "meditation",
+      "journaling",
+      "breathwork"
+    ]
+  }
+]
